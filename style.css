@@ -1,0 +1,83 @@
+img{
+	width:100px;
+	border-radius: 80%;
+
+}
+
+h1{
+	color: #CEC80D;
+	font-family: 'Solway', serif;
+}
+
+body{
+	text-align: center;
+	background: #E0FCFC  ;
+	font-family: 'Solway', serif;
+}
+
+nav{
+	background: rgb(111,211,222);
+}
+
+ol{
+    list-style:none;
+	text-align: center;
+
+}
+
+.hello
+{
+	background: #EEFCE0  ;
+}
+
+#button
+{
+	background: #DAF7A6;
+    font-style: dashed;
+    width:5em;
+    border-style :ridge;
+    border-color: #DAF7A6;
+
+}
+
+i{
+	font-size: 50px;
+	padding: 20px 100px;	
+}
+
+.H{
+	list-style:none;
+	display:inline-block;
+	margin:0px 20px;
+
+}
+
+
+a{
+	text-decoration:none;
+	
+}
+
+div{
+	border-style :outset;
+	padding:10px;
+	margin: 50px;
+    margin-left : 100px;
+    margin-right : 100px;
+    background:#FCE0EE ;
+}
+
+section {
+  margin-left: 300px;
+}
+
+.Hobbies{
+	position: absolute;
+  	left: 0px;
+  	width: 200px;
+ 
+}
+.box{
+	display: grid;
+
+}
